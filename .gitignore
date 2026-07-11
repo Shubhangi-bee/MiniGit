@@ -1,0 +1,17 @@
+# Python
+frontend/venv/
+
+# MiniGit Runtime
+src/.minigit/
+src/minigit
+
+# Test Files
+src/demo.txt
+src/test.txt
+src/resume.pdf
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
