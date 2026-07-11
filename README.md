@@ -111,19 +111,29 @@ streamlit run app.py
 
 ---
 
-## 📷 Screenshots
+## 📷 Project Screenshots
 
 ### Dashboard
 
-(Add dashboard screenshot here)
+![Dashboard](images/Dashboard/Dashboard.png)
 
-### Add File
+---
 
-(Add add file screenshot here)
+### Repository File
 
-### Commit History
+![Repository File](images/Add_File/Add_file.png)
 
-(Add commit history screenshot here)
+---
+
+### Import New File
+
+![Import New File](images/Add_File/Add_file-2.png)
+
+---
+
+### Console
+
+![Console](images/Console/Console.png)
 
 ---
 
